@@ -1,0 +1,50 @@
+.lives_transforms{
+    color: white;
+    background-color: black;
+    /* margin: auto; */
+    text-align: center;
+    display: inline;
+    width: 50%;
+    padding: 9px;
+    margin-left: 40%;
+    font-size: 30px;
+
+}
+.webinar{
+    background-color: #113057;
+    height: 63vh;
+}
+.text{
+    color: white;
+            text-shadow: -1px 1px 0 #000,
+                1px 1px 0 #000,
+                1px -1px 0 #000,
+                -1px -1px 0 #000;
+    color: white;
+    display: inline-block;
+    margin-top: -39%;
+    margin-left: 7%;
+    margin-right: 59%;
+}
+
+.apply_button{
+    background-color: #D10000;
+    border: none;
+    color: white;
+    padding: 9px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 45%;
+    margin-top: 1%;
+    border-radius: 5%;
+    box-shadow: 4px 5px rgb(52, 1, 1);
+    
+    }
+
+    .Workshop{
+        background-color: #113057;
+        height: 63vh;
+    }
+  
